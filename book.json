@@ -1,0 +1,22 @@
+{
+    "title": "学习笔记",
+    "author": "黄花菜先生",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "splitter",
+        "github"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/MrCaiWH"
+        }
+    }
+}
