@@ -1,7 +1,7 @@
 {
     "title": "学习笔记",
     "author": "黄花菜先生",
-    "description": "select * from learn",
+    "description": "工作中的学习笔记",
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "styles": {
@@ -12,7 +12,12 @@
     },
     "plugins": [
         "splitter",
-        "github"
+        "github",
+        "back-to-top-button",
+        "code",
+        "copy-code-button",
+        "pageview-count",
+        "popup"
     ],
     "pluginsConfig": {
         "github": {
