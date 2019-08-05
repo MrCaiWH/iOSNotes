@@ -14,8 +14,7 @@
     * [数据结构](Chapter4/c1.md)
     * [消息传递](Chapter4/c2.md)
     * [消息转发](Chapter4/c3.md)
-    * [面试题](Chapter4/c4.md)
-    * [总结](Chapter4/c5.md)
+    * [总结](Chapter4/c4.md)
 * runloop
     * [runloop](Chapter5/c1.md)
 * Flutter
