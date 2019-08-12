@@ -1,24 +1,74 @@
 # Summary
-* [自我介绍](README.md)
-* iOS
-    * [NSTimer](Chapter1/c1.md)
-    * [工厂模式](Chapter1/c2.md)
-    * [事件响应](Chapter1/c3.md)
-    * [KVC](Chapter1/c4.md)
-* iOS
-    * [陌陌面试题](Chapter2/c1.md)
-    * [类簇](Chapter2/c2.md)
-    * [const／static／extern](Chapter2/c3.md)
-    * [Introduction](Chapter2/c4.md)
-* runtime
-    * [数据结构](Chapter4/c1.md)
-    * [消息传递](Chapter4/c2.md)
-    * [消息转发](Chapter4/c3.md)
-    * [总结](Chapter4/c4.md)
-* runloop
-    * [runloop](Chapter5/c1.md)
+* [介绍](README.md)
+* UI相关
+    * [数据源同步问题](Chapter1/c1.md)
+    * [事件传递和响应](Chapter1/c2.md)
+    * [图像显示原理](Chapter1/c3.md)
+    * [UI卡顿、掉帧](Chapter1/c4.md)
+    * [UI绘制原理](Chapter1/c5.md)
+    * [离屏渲染](Chapter1/c6.md)
+* OC语言特性
+    * [分类](Chapter2/c1.md)
+    * [扩展、代理、通知、KVO](Chapter2/c2.md)
+    * [KVC](Chapter2/c3.md)
+    * [面试题总结](Chapter2/c4.md)
+* RunTime
+    * [数据结构](Chapter3/c1.md)
+    * [消息传递](Chapter3/c2.md)
+    * [消息转发](Chapter3/c3.md)
+    * [总结](Chapter3/c4.md)
+* 内存管理
+    * [内存管理方案](Chapter4/c1.md)
+    * [散列表数据结构](Chapter4/c2.md)
+    * [引用计数管理](Chapter4/c3.md)
+    * [弱引用管理](Chapter4/c4.md)
+    * [自动释放池](Chapter4/c5.md)
+    * [循环引用](Chapter4/c6.md)
+* Block
+    * [介绍](Chapter5/c1.md)
+* 多线程
+    * [介绍](Chapter6/c1.md)
+* RunLoop
+    * [数据结构](Chapter7/c1.md)
+    * [事件循环](Chapter7/c2.md)
+    * [面试题](Chapter7/c3.md)
+* 第三方库
+    * [ReactiveCocoa](Chapter8/c1.md)
+    * [AFNetworking](Chapter8/c2.md)
+    * [SDWebImage](Chapter8/c3.md)
+* 网络相关
+    * [介绍](Chapter9/c1.md)
+* 设计模式
+    * [介绍](Chapter10/c1.md)
+* 架构/框架
+    * [介绍](Chapter11/c1.md)
+* 算法
+    * [介绍](Chapter12/c1.md)
+* 戴铭iOS课程笔记
+    * [App启动优化](Chapter13/c1.md)
+    * [架构方案](Chapter13/c2.md)
+    * [链接器](Chapter13/c3.md)
+    * [Clang](Chapter13/c4.md)
+    * [无侵入埋点](Chapter13/c5.md)
+    * [App瘦身](Chapter13/c6.md)
+    * [崩溃监控](Chapter13/c7.md)
+    * [卡顿问题](Chapter13/c8.md)
+    * [方法交换](Chapter13/c9.md)
+    * [iOS动态化](Chapter13/c10.md)
+* 零散知识点
+    * [NSTimer](Chapter14/c1.md)
+    * [工厂模式](Chapter14/c2.md)
+    * [事件响应](Chapter14/c3.md)
+    * [类簇](Chapter14/c4.md)
+    * [const／static／extern](Chapter14/c5.md)
+    * [Tagged Pointer](Chapter14/c6.md)
+* 面试题
+    * [陌陌面试题](Chapter15/c1.md)
 * Flutter
-    * [Dart](Chapter3/c1.md)
-    * [Widget渲染](Chapter3/c2.md)
-    * [UI编程范式](Chapter3/c3.md)
-    * [生命周期](Chapter3/c4.md)
+    * [Dart](Chapter16/c1.md)
+    * [Widget渲染](Chapter16/c2.md)
+    * [UI编程范式](Chapter16/c3.md)
+    * [生命周期](Chapter16/c4.md)
+    * [依赖管理](Chapter16/c5.md)
+* Git
+    * [基础知识](Chapter17/c1.md)
