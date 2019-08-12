@@ -26,6 +26,8 @@
     * [循环引用](Chapter4/c6.md)
 * Block
     * [介绍](Chapter5/c1.md)
+    * [内存管理](Chapter5/c2.md)
+    * [循环引用](Chapter5/c3.md)
 * 多线程
     * [介绍](Chapter6/c1.md)
 * RunLoop
