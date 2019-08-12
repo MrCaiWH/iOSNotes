@@ -17,7 +17,8 @@
         "code",
         "copy-code-button",
         "pageview-count",
-        "popup"
+        "popup",
+        "expandable-chapters"
     ],
     "pluginsConfig": {
         "github": {
