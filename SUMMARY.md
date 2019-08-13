@@ -24,6 +24,7 @@
     * [弱引用管理](Chapter4/c4.md)
     * [自动释放池](Chapter4/c5.md)
     * [循环引用](Chapter4/c6.md)
+    * [内存管理方案补充](Chapter4/c7.md)
 * Block
     * [介绍](Chapter5/c1.md)
     * [内存管理](Chapter5/c2.md)
