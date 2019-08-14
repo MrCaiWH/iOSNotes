@@ -30,7 +30,10 @@
     * [内存管理](Chapter5/c2.md)
     * [循环引用](Chapter5/c3.md)
 * 多线程
-    * [介绍](Chapter6/c1.md)
+    * [GCD经典面试题](Chapter6/c1.md)
+    * [GCD](Chapter6/c2.md)
+    * [NSOperation](Chapter6/c3.md)
+    * [iOS中的锁](Chapter6/c1.md)
 * RunLoop
     * [数据结构](Chapter7/c1.md)
     * [事件循环](Chapter7/c2.md)
