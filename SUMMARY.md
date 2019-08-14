@@ -75,3 +75,8 @@
     * [依赖管理](Chapter16/c5.md)
 * Git
     * [基础知识](Chapter17/c1.md)
+* 查缺补漏
+    * [NSObject占用多少内存](Chapter18/c1.md)
+    * [NSString](Chapter18/c2.md)
+    * [NSNumber](Chapter18/c3.md)
+    * [字典和散列函数](Chapter18/c4.md)
