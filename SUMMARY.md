@@ -40,7 +40,11 @@
     * [AFNetworking](Chapter8/c2.md)
     * [SDWebImage](Chapter8/c3.md)
 * 网络相关
-    * [介绍](Chapter9/c1.md)
+    * [Http](Chapter9/c1.md)
+    * [HTTPS](Chapter9/c2.md)
+    * [TCP/UDP](Chapter9/c3.md)
+    * [DNS](Chapter9/c4.md)
+    * [Session/Cookie](Chapter9/c5.md)
 * 设计模式
     * [介绍](Chapter10/c1.md)
 * 架构/框架
