@@ -33,7 +33,7 @@
     * [GCD经典面试题](Chapter6/c1.md)
     * [GCD](Chapter6/c2.md)
     * [NSOperation](Chapter6/c3.md)
-    * [iOS中的锁](Chapter6/c1.md)
+    * [iOS中的锁](Chapter6/c4.md)
 * RunLoop
     * [数据结构](Chapter7/c1.md)
     * [事件循环](Chapter7/c2.md)
