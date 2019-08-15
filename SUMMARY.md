@@ -77,11 +77,3 @@
     * [排序](Chapter13/c2.md)
 * 面试题
     * [陌陌面试题](Chapter14/c1.md)
-* Flutter
-    * [Dart](Chapter15/c1.md)
-    * [Widget渲染](Chapter15/c2.md)
-    * [UI编程范式](Chapter15/c3.md)
-    * [生命周期](Chapter15/c4.md)
-    * [依赖管理](Chapter15/c5.md)
-* Git
-    * [基础知识](Chapter16/c1.md)
