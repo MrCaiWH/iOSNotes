@@ -43,17 +43,25 @@
     * [AFNetworking](Chapter8/c2.md)
     * [SDWebImage](Chapter8/c3.md)
 * 网络相关
-    * [Http](Chapter9/c1.md)
+    * [HTTP](Chapter9/c1.md)
     * [HTTPS](Chapter9/c2.md)
     * [TCP/UDP](Chapter9/c3.md)
     * [DNS](Chapter9/c4.md)
     * [Session/Cookie](Chapter9/c5.md)
-* 设计模式
+* 设计模式与架构
     * [介绍](Chapter10/c1.md)
-* 架构/框架
-    * [介绍](Chapter11/c1.md)
-* 算法
-    * [介绍](Chapter12/c1.md)
+* 查缺补漏
+    * [NSObject占用多少内存](Chapter11/c1.md)
+    * [NSString](Chapter11/c2.md)
+    * [NSNumber](Chapter11/c3.md)
+    * [字典和散列函数](Chapter11/c4.md)
+* 零散知识点
+    * [NSTimer](Chapter12/c1.md)
+    * [工厂模式](Chapter12/c2.md)
+    * [事件响应](Chapter12/c3.md)
+    * [类簇](Chapter12/c4.md)
+    * [const／static／extern](Chapter12/c5.md)
+    * [Tagged Pointer](Chapter12/c6.md)
 * 戴铭iOS课程笔记
     * [App启动优化](Chapter13/c1.md)
     * [架构方案](Chapter13/c2.md)
@@ -65,13 +73,8 @@
     * [卡顿问题](Chapter13/c8.md)
     * [方法交换](Chapter13/c9.md)
     * [iOS动态化](Chapter13/c10.md)
-* 零散知识点
-    * [NSTimer](Chapter14/c1.md)
-    * [工厂模式](Chapter14/c2.md)
-    * [事件响应](Chapter14/c3.md)
-    * [类簇](Chapter14/c4.md)
-    * [const／static／extern](Chapter14/c5.md)
-    * [Tagged Pointer](Chapter14/c6.md)
+* 数据结构和算法
+    * [介绍](Chapter14/c1.md)
 * 面试题
     * [陌陌面试题](Chapter15/c1.md)
 * Flutter
@@ -82,8 +85,3 @@
     * [依赖管理](Chapter16/c5.md)
 * Git
     * [基础知识](Chapter17/c1.md)
-* 查缺补漏
-    * [NSObject占用多少内存](Chapter18/c1.md)
-    * [NSString](Chapter18/c2.md)
-    * [NSNumber](Chapter18/c3.md)
-    * [字典和散列函数](Chapter18/c4.md)
