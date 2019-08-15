@@ -54,7 +54,7 @@
     * [NSObject占用多少内存](Chapter11/c1.md)
     * [NSString](Chapter11/c2.md)
     * [NSNumber](Chapter11/c3.md)
-    * [字典和散列函数](Chapter11/c4.md)
+    * [属性](Chapter11/c4.md)
 * 零散知识点
     * [NSTimer](Chapter12/c1.md)
     * [工厂模式](Chapter12/c2.md)
@@ -74,7 +74,8 @@
     * [方法交换](Chapter13/c9.md)
     * [iOS动态化](Chapter13/c10.md)
 * 数据结构和算法
-    * [介绍](Chapter14/c1.md)
+    * [字典和散列函数](Chapter14/c1.md)
+    * [排序](Chapter14/c2.md)
 * 面试题
     * [陌陌面试题](Chapter15/c1.md)
 * Flutter
