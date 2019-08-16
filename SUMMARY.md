@@ -16,6 +16,7 @@
     * [NSString](Chapter2/c6.md)
     * [NSNumber](Chapter2/c7.md)
     * [属性](Chapter2/c8.md)
+    * [NSProxy](Chapter2/c9.md)
 * RunTime
     * [数据结构](Chapter3/c1.md)
     * [消息传递](Chapter3/c2.md)
