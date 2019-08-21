@@ -43,6 +43,7 @@
     * [数据结构](Chapter7/c1.md)
     * [事件循环](Chapter7/c2.md)
     * [面试题](Chapter7/c3.md)
+    * [常用方法](Chapter7/c4.md)
 * 第三方库
     * [ReactiveCocoa](Chapter8/c1.md)
     * [AFNetworking](Chapter8/c2.md)
