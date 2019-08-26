@@ -65,6 +65,7 @@
     * [类簇](Chapter11/c4.md)
     * [const／static／extern](Chapter11/c5.md)
     * [Tagged Pointer](Chapter11/c6.md)
+    * [isEqual](Chapter11/c7.md)
 * 戴铭iOS课程笔记
     * [App启动优化](Chapter12/c1.md)
     * [架构方案](Chapter12/c2.md)
