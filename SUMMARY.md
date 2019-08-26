@@ -57,6 +57,7 @@
     * [Session/Cookie](Chapter9/c5.md)
 * 设计模式与架构
     * [介绍](Chapter10/c1.md)
+    * [架构设计模式](Chapter10/c2.md)
 * 零散知识点
     * [NSTimer](Chapter11/c1.md)
     * [工厂模式](Chapter11/c2.md)
@@ -81,4 +82,4 @@
 * 面试题
     * [陌陌面试题](Chapter14/c1.md)
 * Swift
-    * [陌陌面试题](Chapter15/c1.md)
+    * [基础语法](Chapter15/c1.md)
