@@ -86,5 +86,7 @@
     * [排序](Chapter13/c2.md)
 * 面试题
     * [陌陌面试题](Chapter14/c1.md)
+    * [下载](Chapter14/c2.md)
+    * [课表](Chapter14/c3.md)
 * Swift
     * [基础语法](Chapter15/c1.md)
