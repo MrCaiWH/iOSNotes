@@ -43,6 +43,7 @@
     * [NSOperation](Chapter6/c3.md)
     * [iOS中的锁](Chapter6/c4.md)
     * [信号量](Chapter6/c5.md)
+    * [信号量](Chapter6/c6.md)
 * RunLoop
     * [数据结构](Chapter7/c1.md)
     * [事件循环](Chapter7/c2.md)
